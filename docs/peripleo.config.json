@@ -5,7 +5,7 @@
     {
       "name": "Sloane Lab British Museum",
       "format": "LINKED_PLACES",
-      "src": "./data/Sloane_bm_places_links.json",
+      "src": "./data/Sloane_bm_nhm.json",
       "attribution": "Gethin Rees, Sloane Lab Partners & Contributors"
     }
   ],
