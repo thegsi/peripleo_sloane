@@ -10,7 +10,7 @@
     }
   ],
   "facets": [
-    "Sloane Lab resource"
+    "resource"
   ],
   "link_icons": [
     { "pattern": "knowledgebase.sloanelab.org", "img": "../logos/www.britishmuseum.org.png", "label": "British Museum" }
