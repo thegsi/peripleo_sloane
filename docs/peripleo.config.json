@@ -5,7 +5,7 @@
     {
       "name": "Sloane Lab knowledge base",
       "format": "LINKED_PLACES",
-      "src": "./data/Sloane_bm_nhm.json",
+      "src": "./data/Sloane_bm_nhm_types.json",
       "attribution": "Gethin Rees, Sloane Lab Partners & Contributors"
     }
   ],
