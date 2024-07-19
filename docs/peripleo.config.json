@@ -1,5 +1,5 @@
 {
-  "initial_bounds": [-180, -90, 180, 90],
+  "initial_bounds": [-175, -65, 175, 85],
   "map_style": "./map-style-CAWM.json",
   "data": [
     {
